@@ -8,6 +8,7 @@ script for close applications
 2) пишем компанду
    
     windows: py main.py
+   
     linux/mac: python3 main.py
    
 4) вписываем программу для закрытия
